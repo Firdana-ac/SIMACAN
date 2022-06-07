@@ -1,3 +1,3 @@
 # Jobdesk
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)

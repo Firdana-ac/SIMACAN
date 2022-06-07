@@ -2,7 +2,7 @@
 
 ## **Menu Dashboard**
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 ## **Master Client**
 
