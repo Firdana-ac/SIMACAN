@@ -2,7 +2,7 @@
 
 **Nama Proyek:** SIMACAN ( Sistem Manajemen Calon Client )
 
-**Pengguna** : PT. Data Utama Net
+**Pengguna** : PT. Data Utama Dinamika
 
 ### **Deskripsi** :&#x20;
 
