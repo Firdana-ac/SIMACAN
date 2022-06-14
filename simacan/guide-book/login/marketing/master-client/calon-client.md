@@ -18,13 +18,13 @@
 
 * **Marketing In Cahrge** **(By System)** yaitu nama pegawai yang mengintputkan data.
 
-![](<../../../../../.gitbook/assets/image (37).png>)
+![](<../../../../../.gitbook/assets/image (37) (1).png>)
 
 
 
 * **Nama Calon Client ( Wajib)** dapat diisi sesuai dengan nama calon client yang akan didaftarkan dapat berupa PT./Perseorangan.
 
-![](<../../../../../.gitbook/assets/image (25).png>)
+![](<../../../../../.gitbook/assets/image (25) (1).png>)
 
 * **Alamat Lengkap ( Wajib )** dapat diisi sesuai degan alamat lengkap calon client yang akan didaftarkan
 
@@ -48,7 +48,7 @@
 
 * **Keterangan ( Opsional )**
 
-![](<../../../../../.gitbook/assets/image (6).png>)
+![](<../../../../../.gitbook/assets/image (6) (1).png>)
 
 
 
@@ -60,7 +60,7 @@
 
 ### Data PIC Client
 
-![](<../../../../../.gitbook/assets/image (31).png>)
+![](<../../../../../.gitbook/assets/image (31) (1).png>)
 
 ![](<../../../../../.gitbook/assets/image (30).png>)
 
@@ -76,7 +76,7 @@ Data yang sudah diinputkan dapat diedit kembali sesuai dengan kebutuhan pendataa
 
 ![](<../../../../../.gitbook/assets/image (39).png>)
 
-![](<../../../../../.gitbook/assets/image (17).png>)
+![](<../../../../../.gitbook/assets/image (17) (1).png>)
 
 
 
@@ -89,3 +89,11 @@ Data yang sudah diinputkan dapat diedit kembali sesuai dengan kebutuhan pendataa
 ![](<../../../../../.gitbook/assets/image (15).png>)
 
 ![](<../../../../../.gitbook/assets/image (51).png>)
+
+
+
+## Tambah Member
+
+![](<../../../../../.gitbook/assets/image (17).png>)
+
+![](<../../../../../.gitbook/assets/image (37).png>)
