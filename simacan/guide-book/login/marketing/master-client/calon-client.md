@@ -8,7 +8,7 @@
 
 ![](<../../../../../.gitbook/assets/image (34) (1).png>)
 
-![](<../../../../../.gitbook/assets/image (12).png>)
+![](<../../../../../.gitbook/assets/image (12) (1).png>)
 
 * **Kode Calon Client** **( By System )** otomatis terisi dengan system.
 

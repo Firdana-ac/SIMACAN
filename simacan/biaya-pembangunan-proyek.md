@@ -1,3 +1,3 @@
 # Biaya Pembangunan Proyek
 
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (12).png>)
