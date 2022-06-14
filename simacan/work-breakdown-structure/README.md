@@ -1,3 +1,3 @@
 # Work Breakdown Structure
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
