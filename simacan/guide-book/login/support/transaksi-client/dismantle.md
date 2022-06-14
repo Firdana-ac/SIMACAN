@@ -20,7 +20,7 @@ Pilih Data Client ( Wajib ) yang sesuai&#x20;
 
 ### Data Hasil Dismantle Client
 
-![](<../../../../../.gitbook/assets/image (52).png>)
+![](<../../../../../.gitbook/assets/image (52) (1).png>)
 
 Pilih POP (wajib) yang sesuai
 

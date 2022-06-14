@@ -2,7 +2,7 @@
 
 ![](<../../.gitbook/assets/image (37).png>)
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (28) (1).png>)
 
 ### Langkah yang dilakukan pada saat mengganti password
 
