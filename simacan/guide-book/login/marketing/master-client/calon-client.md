@@ -6,7 +6,7 @@
 
 ### Calon Client
 
-![](<../../../../../.gitbook/assets/image (34).png>)
+![](<../../../../../.gitbook/assets/image (34) (1).png>)
 
 ![](<../../../../../.gitbook/assets/image (12).png>)
 
