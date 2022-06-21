@@ -34,4 +34,3 @@
     * [System Logs](simacan/guide-book/login/marketing/system-logs.md)
     * [Update Profile](simacan/guide-book/update-profile.md)
     * [Ganti Password](simacan/guide-book/ganti-password.md)
-    * [Log Out](simacan/guide-book/log-out.md)
